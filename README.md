@@ -5,5 +5,5 @@ This is a simple Python script that extracts and reports the largest numerical v
 # How to Run
 Need to install PyMuPDF (pip install pymupdf). Given pdf is named as "example.pdf"
 1. Run like this:
-python find_largest_number.py
+python largestnum.py
 2. It will print the output
